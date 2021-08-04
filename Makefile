@@ -1,4 +1,3 @@
-CC        = gcc
 EXEC      = slaMEM
 CFLAGS    = -Wall -Wextra -Wunused -mpopcnt -fcommon -Wno-stringop-overflow
 CDEBUG    = -g -ggdb -fno-inline -dH -DGDB
