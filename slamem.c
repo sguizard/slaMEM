@@ -20,7 +20,7 @@
 #include "lcparray.h"
 #include "graphics.h"
 
-#define VERSION "0.8.4"
+#define VERSION "0.8.5"
 
 //#define BENCHMARK 1
 #if defined(unix) && defined(BENCHMARK)
